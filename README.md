@@ -1,3 +1,12 @@
+Name: Yikai Li
+
+work:
+1. https://www.shadertoy.com/view/NX3GDr
+2. https://www.shadertoy.com/view/f33GWr
+3. https://www.shadertoy.com/view/N3dGWr
+
+
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
